@@ -11,7 +11,7 @@ if (number > 100) {
   
   console.log("The number is between 1 and 100");
   
-} else if (number === 0) {
+} else if (number === "0") {
   
   console.log("The number is 0");
   
